@@ -7,16 +7,16 @@ manifest:
     - name: englmaxi
       url-base: https://github.com/englmaxi
   projects:
+    - name: zmk
+      remote: zmkfirmware
+      revision: main
+      import: app/west.yml
     - name: nice-view-mod
       remote: wrenbrvy
       revision: main
     - name: nice-view-mod2
       remote: wrenbrvy
       revision: main
-    - name: zmk
-      remote: zmkfirmware
-      revision: main
-      import: app/west.yml
     - name: zmk-dongle-display
       remote: englmaxi
       revision: main
