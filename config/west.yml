@@ -9,7 +9,7 @@ manifest:
   projects:
     - name: nice-view-mod
       remote: wrenbrvy
-      revision: nice-viwe-mod-another
+      revision: main
     - name: zmk
       remote: zmkfirmware
       revision: main
