@@ -10,6 +10,9 @@ manifest:
     - name: nice-view-mod
       remote: wrenbrvy
       revision: main 
+    - name: nice-view-mod
+      remote: wrenbrvy
+      revision: nice-view-mod-another
     - name: zmk
       remote: zmkfirmware
       revision: main
