@@ -14,9 +14,6 @@ manifest:
     - name: nice-view-mod
       remote: wrenbrvy
       revision: main
-    - name: nice-view-mod2
-      remote: wrenbrvy
-      revision: main
     - name: zmk-dongle-display
       remote: englmaxi
       revision: main
