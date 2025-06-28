@@ -48,7 +48,7 @@ layers:
   - $$mdi:keyboard-space$$
   - $$mdi:apple-keyboard-shift$$
   - Fn
-  - $$mdi:apple-keyboard-option$$
+  - LANG HANGEUL
   NUM:
   - {t: '`', s: '~'}
   - {t: '1', s: '!'}
