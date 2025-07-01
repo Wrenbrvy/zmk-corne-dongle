@@ -38,7 +38,7 @@
     sensors {
 		compatible = "zmk,keymap-sensors";
 		sensors = <&left_encoder>;
-		triggers-per-rotation = <16>;
+		triggers-per-rotation = <14>;
 	};
 
     kscan0: kscan {
