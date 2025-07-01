@@ -13,7 +13,7 @@
 
 &msc_input_listener { input-processors = <&zip_scroll_scaler 2 1>; };
 
-&sensors {triggers-per-rotation = <30>; };
+
 
 &msc {
     acceleration-exponent = <1>;      // 0
