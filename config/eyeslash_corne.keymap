@@ -36,6 +36,15 @@
 
             tapping-term-ms = <250>;
         };
+
+        td1: td1 {
+            compatible = "zmk,behavior-tap-dance";
+            label = "TD1";
+            #binding-cells = <0>;
+            bindings = <&kp LEFT_SHIFT>, <&mkp MB2>;
+
+            tapping-term-ms = <250>;
+        };
     };
 
     rgb_encoder: rgb_encoder {
