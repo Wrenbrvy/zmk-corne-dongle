@@ -200,8 +200,8 @@ layers:
   - F13
   - F14
   - F15
-  - F16
-  - F17
+  - '&mkp MB4'
+  - '&mkp MB5'
   - F18
   - {t: '$$mdi:menu-up$$', s: '$$mdi:mouse$$'}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
